@@ -18,4 +18,16 @@ the premise:
 - my goal is to make sure that no kid, teen, young adult & beyond, misses out on doing something exciting or getting the opportunty to learn and do things they otherwise couldn't just simply because they didn't know it existed, and i hope this website can succeed in that mission.
 
 
-<!-- is this visible? -->
+<!-- 
+To Do:
+- create general website - make it like a forum, with a search bar and filters and all
+- create a mission statement page
+- allow people to make accounts
+- maybe get stars/points on your account for the more opportunities you post (like kudos & credit - perhaps even you could get points depending on how well liked these opportunities are)
+- maybe you can also follow a certain tag/filter and get notified when a new opportunity arises
+- or follow select companies
+- opportunity to create company account (would need to do this much later - or actually maybe its just like the regular one but you have to verify to be a verified company account)
+- make it so the website has one of those different coloured bars at the bottom with like the important info
+
+- off topic but wouldnt it be so funny if i re-did esa's website so it looked better and that was a project i did. cause i hate the way their website functions so much
+-->
