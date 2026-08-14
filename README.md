@@ -15,4 +15,7 @@ the premise:
 
 - that's where my website comes in, "Opportunities For All". there's no age limit. find whatever opportunity you'd like and take as many as you can! this is your chance
 
-- my goal is to make sure that no kid, teen, young adult & beyond, misses out on doing something exciting or getting the opportunty to learn and do things they otherwise couldn't just simply because they didn't know it existed, and i hope this website will help with that.
+- my goal is to make sure that no kid, teen, young adult & beyond, misses out on doing something exciting or getting the opportunty to learn and do things they otherwise couldn't just simply because they didn't know it existed, and i hope this website can succeed in that mission.
+
+
+<!-- is this visible? -->
