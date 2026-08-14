@@ -32,6 +32,7 @@ To Do:
 - fully customisable background modes - light & dark, + presets, + add your own
 - as much customisation as you want
 - maybe it could be styled like Opportunities 4 All?
+- add themes (basically like presets but like with little details, like a b&p theme (not called that) with like cutsy plants in the sides of the forum in a similar style, or a star one!
 
 - off topic but wouldnt it be so funny if i re-did esa's website so it looked better and that was a project i did. cause i hate the way their website functions so much
 -->
