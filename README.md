@@ -28,6 +28,9 @@ To Do:
 - or follow select companies
 - opportunity to create company account (would need to do this much later - or actually maybe its just like the regular one but you have to verify to be a verified company account)
 - make it so the website has one of those different coloured bars at the bottom with like the important info
+- maybe you can also list what opportunities you took on your account!
+- fully customisable background modes - light & dark, + presets, + add your own
+- as much customisation as you want
 
 - off topic but wouldnt it be so funny if i re-did esa's website so it looked better and that was a project i did. cause i hate the way their website functions so much
 -->
