@@ -1,8 +1,11 @@
 /* css files don't need any set up tags */
 
-.panel{
-    height: 500px;
-    width: 500px;
-    background-color:bisque;
-
-}
+.panel{ /* top panel rn */
+    position:absolute;
+    top:0px;
+    right:0px;
+    left:0px;
+    height:300px;
+    background-color:powderblue;
+    
+    }
