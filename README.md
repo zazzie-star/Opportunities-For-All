@@ -31,6 +31,7 @@ To Do:
 - maybe you can also list what opportunities you took on your account!
 - fully customisable background modes - light & dark, + presets, + add your own
 - as much customisation as you want
+- maybe it could be styled like Opportunities 4 All?
 
 - off topic but wouldnt it be so funny if i re-did esa's website so it looked better and that was a project i did. cause i hate the way their website functions so much
 -->
