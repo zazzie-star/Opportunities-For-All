@@ -8,4 +8,11 @@
     height:300px;
     background-color:powderblue;
     
-    }
+}
+
+/* so apparently you put (tag).(a, b, c so on) here and make that the class to do this */
+h1.a {    
+    margin-right: 800px;
+    text-align-last: end;
+
+}
