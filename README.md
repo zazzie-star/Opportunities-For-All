@@ -38,3 +38,6 @@ To Do:
 
 - off topic but wouldnt it be so funny if i re-did esa's website so it looked better and that was a project i did. cause i hate the way their website functions so much
 -->
+
+<!-- NOTES TO SELF:
+- learn what position is -->

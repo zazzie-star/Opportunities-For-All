@@ -12,14 +12,24 @@
 
 /* so apparently you put (tag).(a, b, c so on) here and make that the class to do this */
 h1.a {    
-    margin-right: 800px;
     text-align-last: end;
     color:white;
-
+    position: fixed;
+    top: 70px;
+    left: 20%;
+    
 }
 
 p.b {
-    margin-right: 800px;
+    position: fixed;
+    top: 160px;
+    left: 10%;
     text-align-last: end;
     color:white;
+}
+
+.quickBrowse {
+    position: fixed; /* stays in a fixed location with respect to the page */
+    bottom: 100px; /* x amount of px from the bottom */
+
 }
